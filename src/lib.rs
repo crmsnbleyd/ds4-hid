@@ -1,5 +1,4 @@
 pub mod runner{
-    extern crate hidapi;
     use hidapi::HidApi;
     use std::fmt;
     use std::io::Write;
