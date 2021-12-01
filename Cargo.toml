@@ -1,0 +1,8 @@
+[package]
+authors = ["Arnav Andrew Jose <arnav.jose@learner.manipal.edu>"]
+name = "ds4"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
+hidapi = "1.3.0"
